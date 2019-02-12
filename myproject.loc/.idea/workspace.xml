@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cf8f8cb-d3cf-4775-b290-a1b707e669bd" name="Default Changelist" comment="" />
+    <list default="true" id="8cf8f8cb-d3cf-4775-b290-a1b707e669bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyProject/Models/Articles/Article.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyProject/Models/Users/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/kai-ros v2.0/sass/blocks/btn.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/kai-ros v2.0/sass/blocks/page-header__title.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/kai-ros/sass/global/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/kai-ros/sass/global/layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project/kai-ros_v1.2/sass/blocks/page-header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/layout/cms_index_index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/layout/default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/templates/brand.phtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/templates/title-page.phtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/web/css/source/_extend.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/web/images/brand/baofeng.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/web/images/brand/hytera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/web/images/brand/icom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/web/images/brand/kenwood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/web/images/brand/motorola.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/web/images/title-page/Smartportofoon_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/web/images/title-page/Vector Smart Object.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/web/images/title-page/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Cms/web/images/title-page/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Newsletter/layout/default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Newsletter/templates/social.phtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Newsletter/templates/subscribe.phtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Newsletter/web/css/source/_extend.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Search/templates/form.mini.phtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Theme/layout/default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Theme/layout/default_head_blocks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Theme/layouts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Theme/page_layout/1column-landing.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Theme/templates/html/copyright.phtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/Magento_Theme/web/css/source/_extend.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/i18n/en_US.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/livereload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/registration.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/theme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/css/source/_theme.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/css/source/_typography.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/css/source/_widgets.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/css/source/module/_minicart.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/css/source/module/_variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/fonts/roboto/Roboto-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/fonts/roboto/Roboto-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/fonts/roboto/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/fonts/roboto/Roboto-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/fonts/roboto/Roboto-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/fonts/roboto/RobotoCondensed-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/fonts/roboto/RobotoCondensed-Regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/fonts/roboto/RobotoCondensed-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/fonts/roboto/RobotoCondensed-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/fonts/roboto/RobotoCondensed-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/images/VectorSmartObject.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/images/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/images/footer-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/images/logo-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/images/social-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/images/telephone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/images/telephone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/images/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bernik/portofoonWeb/web/images/.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyProject/Controllers/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyProject/Controllers/MainController.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,9 +75,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyProject/Controllers/MainController.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -25,14 +94,24 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/index.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/MyProject/Controllers/MainController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -50,32 +129,6 @@
               <item name="myproject.loc" type="b2602c69:ProjectViewProjectNode" />
               <item name="myproject.loc" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="myproject.loc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject.loc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproject.loc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject.loc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MyProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproject.loc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject.loc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MyProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproject.loc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproject.loc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MyProject" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
-              <item name="Articles" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -89,6 +142,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Vitaliy\Developer\PHP\myproject.loc\src\MyProject" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -101,6 +159,9 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8cf8f8cb-d3cf-4775-b290-a1b707e669bd" name="Default Changelist" comment="" />
@@ -108,15 +169,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549981134811</updated>
-      <workItem from="1549981140498" duration="200000" />
+      <workItem from="1549981140498" duration="802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200000" />
+    <option name="totallyTimeSpent" value="802000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -144,9 +205,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MyProject/Controllers/MainController.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyProject/Models/Articles/Article.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -155,6 +213,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.php">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyProject/Controllers/MainController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
